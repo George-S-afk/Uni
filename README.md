@@ -98,7 +98,7 @@ All of my university stuff.
     <li>:open_file_folder: Semester 4
         <ul>
             <li>
-                <a href="https://github.com/George-S-afk/Uni/tree/main/Semester%204/Artificial%20Intelligence">
+                <a href="https://github.com/George-S-afk/Uni/tree/main/Semester%204/AI">
                     :bulb: Artificial Intelligence
                 </a>
             </li>
